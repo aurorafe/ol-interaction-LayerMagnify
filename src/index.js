@@ -41,7 +41,7 @@ ol.interaction.LayerMagnify = function (params) {
    * 滤镜边框宽度
    * @type {number}
    */
-  this.lineWidth = (typeof this.options['lineWidth'] === 'number') ? this.options['lineWidth'] : 5
+  this.lineWidth = (typeof this.options['lineWidth'] === 'number') ? this.options['lineWidth'] : 2
 
   /**
    * 滤镜边线颜色

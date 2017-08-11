@@ -47,11 +47,11 @@ import 'ol-interaction-layermagnify'
 | key | type | desc |
 | :--- | :--- | :---------- |
 | `magnifyLayer` | `Object` | 放大镜中图层 |
-| `radius` | `Number` | 滤镜半径，默认 ``75`` |
-| `minRadius` | `Number` | 滤镜可调整最小半径，默认 ``25`` |
-| `maxRadius` | `Number` | 滤镜可调整最大半径，默认 ``150`` |
-| `lineWidth` | `Number` | 滤镜边框宽度，默认 ``5`` |
-| `strokeStyle` | `String` | 滤镜默认边框颜色，默认 ``rgba(0, 0, 0, 0.5)`` |
+| `radius` | `Number` | 放大镜半径，默认 ``75`` |
+| `minRadius` | `Number` | 放大镜可调整最小半径，默认 ``25`` |
+| `maxRadius` | `Number` | 放大镜可调整最大半径，默认 ``150`` |
+| `lineWidth` | `Number` | 放大镜边框宽度，默认 ``5`` |
+| `strokeStyle` | `String` | 放大镜默认边框颜色，默认 ``rgba(0, 0, 0, 0.5)`` |
 | `zoomInKeyCode` | `Number` | 键盘控制滤镜放大对应的keyCode，默认为 ``38`` 方向上 |
 | `zoomOutKeyCode` | `Number` | 键盘控制滤镜缩小对应的keyCode，默认为 ``40`` 方向下 |
 
