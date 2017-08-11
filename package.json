@@ -1,6 +1,6 @@
 {
   "name": "ol-interaction-layermagnify",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "openlayers layermagnify",
   "main": "src/index.js",
   "scripts": {
